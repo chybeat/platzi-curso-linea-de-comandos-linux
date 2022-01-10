@@ -140,7 +140,7 @@ Ahora como se quiere pasar a un archivo, hay 2 formas, una es con el operador de
 
 `ls -lh | grep -e'02:' | tee modif2am.txt`
 
-## Operador de ejecución síncrona (;)
+## Operador de ejecución síncrona (';')
 
 Este operador realiza una tarea despues de otra, en el orden en que se escriben.
 
