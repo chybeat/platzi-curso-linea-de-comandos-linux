@@ -13,6 +13,7 @@ Los archivos en este repositorio muestran comandos para Linux algo básico para 
 1. > [Comandos de directorios y archivos](https://github.com/chybeat/platzi-curso-linea-de-comandos-linux/blob/main/comandos-de-directorios-y-archivos.md) - Lee cómo organizar tu información y/o guardar algun dato.
 
 1. > [Comandos para explorar contenido de archivos](https://github.com/chybeat/platzi-curso-linea-de-comandos-linux/blob/main/comandos-explorar-contenido-de-archivos.md) - Mira como ver contenidos
+
 1. > [Compresion de archivos](https://github.com/chybeat/platzi-curso-linea-de-comandos-linux/blob/main/compresion-de-archivos.md) - Optimiza el espacio de almacenamiento
 
 1. > [Manejo de procesos](https://github.com/chybeat/platzi-curso-linea-de-comandos-linux/blob/main/manejo-de-procesos.md) - Conoce como gestiona los procesos en Linux

@@ -1,22 +1,22 @@
 ## Comandos para explorar el contenido de archivos
 
-cat: muestra todo el contenido de un archivo en la ventana de la terminal
+**cat**: muestra todo el contenido de un archivo en la ventana de la terminal
 
-head: Muestra la cabezera o inicio de un archivo (10 primeras lineas)
+**head**: Muestra la cabezera o inicio de un archivo (10 primeras lineas)
 
     Ej: head principios_de_usabilidad_ejemplo.md
 
     -n #: muestra las primeras # líneas en un archivo
     Ej: head principios_de_usabilidad_ejemplo.md -n 15
 
-tail: Muestra el final o lineas finales del contenido de un archivo (10 últimas lineas)
+**tail**: Muestra el final o lineas finales del contenido de un archivo (10 últimas lineas)
 
     Ej: tail principios_de_usabilidad_ejemplo.md
 
     -n #: muestra las últimas # líneas en un archivo
     Ej: tail principios_de_usabilidad_ejemplo.md -n 8
 
-less: es un comando para interactuar con el archivo mirandolo con desplazamiento con las flechas
+**less**: es un comando para interactuar con el archivo mirandolo con desplazamiento con las flechas
 
     EJ: less principios_de_usabilidad_ejemplo.md
 
@@ -30,11 +30,21 @@ less: es un comando para interactuar con el archivo mirandolo con desplazamiento
 
     q: sale del entorno
 
+## Editores de texto
+
+**Nano**: Sencillo y hace su trabajo, ves archivos y los guardas, tienes un listado de comandos en la parte inferior
+
+**Vi**: Potente personalizable hasta la medula llevandolo casi hasta editor de código. Sui particularidad es que hay que saberlo manejar, no tiene muchas ayudas, pero cuando lo conoces no dejas de usarlo
+
+## Exploradores de archivos
+
 nautilus: Lanza el explorador de archivos desde Linux
 
     Como parámetro se le puede colocar la carpeta que se quiera abrir
 
 explorer.exe con el paramatro "." (punto), abre la carpeta actual ó la ruta completa (como se escribe en Windows) dentro de comillas.
+
+## iInformación de carpetas
 
 wslpath muestra la ruta de cualquier ubicacion de windows dentro del sistema de archivos de WSL
 
